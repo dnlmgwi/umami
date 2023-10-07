@@ -11,11 +11,11 @@ export function Header() {
     <header className={styles.header}>
       <Row className={styles.row}>
         <Column>
-          <Link href="https://umami.is" target="_blank" className={styles.title}>
+          <Link href="https://dnlmgwi.com" target="_blank" className={styles.title}>
             <Icon size="lg">
               <Icons.Logo />
             </Icon>
-            <Text>umami</Text>
+            <Text>dnlmgwi</Text>
           </Link>
         </Column>
         <Column className={styles.buttons}>

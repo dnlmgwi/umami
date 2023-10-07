@@ -17,7 +17,7 @@ export function AppLayout({ title, children }) {
     <div className={styles.layout}>
       <UpdateNotice user={user} config={config} />
       <Head>
-        <title>{title ? `${title} | umami` : 'umami'}</title>
+        <title>{title ? `${title} | dnlmgwi` : 'dnlmgwi'}</title>
       </Head>
       <nav className={styles.nav}>
         <NavBar />
