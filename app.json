@@ -1,8 +1,8 @@
 {
-  "name": "dnlmgwi",
+  "name": "Newwave Pulse",
   "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
   "keywords": ["analytics", "charts", "statistics", "web-analytics"],
-  "website": "https://dnlmgwi.com",
+  "website": "https://newwave.mw",
   "repository": "https://github.com/umami-software/umami",
   "addons": ["heroku-postgresql"],
   "env": {

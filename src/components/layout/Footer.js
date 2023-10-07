@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <footer className={styles.footer}>
       <a href={HOMEPAGE_URL}>
-        <b>dnlmgwi</b> {`v${CURRENT_VERSION}`}
+        <b>Newwave Group | Pulse</b> {`v${CURRENT_VERSION}`}
       </a>
     </footer>
   );

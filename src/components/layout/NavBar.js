@@ -29,7 +29,7 @@ export function NavBar() {
             <Icon size="lg">
               <Icons.Logo />
             </Icon>
-            <Text className={styles.text}>dnlmgwi</Text>
+            <Text className={styles.text}>Newwave Pulse</Text>
           </div>
           <div className={styles.links}>
             {links.map(({ url, label }) => {

@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/stats/:match*",
-      "destination": "https://analytics.dnlmgwi.com/:match*"
+      "destination": "https://analytics.newwave.mw/:match*"
     }
   ]
 }

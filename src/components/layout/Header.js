@@ -11,11 +11,11 @@ export function Header() {
     <header className={styles.header}>
       <Row className={styles.row}>
         <Column>
-          <Link href="https://dnlmgwi.com" target="_blank" className={styles.title}>
+          <Link href="https://newwave.mw" target="_blank" className={styles.title}>
             <Icon size="lg">
               <Icons.Logo />
             </Icon>
-            <Text>dnlmgwi</Text>
+            <Text>Newwave Pulse</Text>
           </Link>
         </Column>
         <Column className={styles.buttons}>

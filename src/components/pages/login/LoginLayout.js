@@ -8,7 +8,7 @@ export function LoginLayout({ children }) {
   return (
     <div className={styles.layout} dir={dir}>
       <Head>
-        <title>{`Login | dnlmgwi`}</title>
+        <title>{`Login | Newwave Pulse`}</title>
       </Head>
       {children}
     </div>
