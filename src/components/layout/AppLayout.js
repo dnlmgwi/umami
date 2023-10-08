@@ -17,7 +17,7 @@ export function AppLayout({ title, children }) {
     <div className={styles.layout}>
       <UpdateNotice user={user} config={config} />
       <Head>
-        <title>{title ? `${title} | Newwave Group` : 'Newwave Group'}</title>
+        <title>{title ? `${title} | Newwave Pulse` : 'Newwave Pulse'}</title>
       </Head>
       <nav className={styles.nav}>
         <NavBar />
